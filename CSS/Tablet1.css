@@ -1,0 +1,412 @@
+@media screen and (max-width: 1050px) 
+{
+    .ph{
+        font-size: 15px;
+    }
+    .gm{
+        font-size: 15px;
+    }
+    .nav2 img{
+        padding-top: 2vh;
+        height: 6vh;
+        padding-left: 3vw;
+    }
+    .list1 ul{
+        padding-top: 4vh;
+        padding-left: 3vw;
+    }
+    .list1 ul li{
+        padding: 6px;
+    }
+    .list1 ul li a{
+        font-size: 14px;
+    }
+    .btn1{
+        height: 4vh;
+        width: 14vw;
+        margin-left: 10vw;
+        margin-top: 4vh;
+    }
+    .ImgMain{
+        height: 75vh;
+    }
+    .ImgMain img{
+        height: 75vh;
+    }
+    .text1{
+        bottom: 57vh;
+    }
+    .A{
+        font-size: 50px;
+    }
+    .B{
+        font-size: 21px;
+    }
+    .C{
+        font-size: 15px;
+        padding: 0 15vw;
+    }
+    .btn2{
+        width: 15vw;
+    }
+
+    .About{
+        height: 75vh;
+    }
+    .A1a{
+        padding-left: 6vw;
+    }
+    .A1b{
+        padding-left: 6vw;
+    }
+    .Img1 img{
+        height: 15vh;
+        padding-top: 14vh;
+    }
+    .Img3 img{
+        height: 16vh;
+    }
+    .Img4 img{
+        height: 21vh;
+    }
+    .X{
+        font-size: 30px;
+        padding-left: 2vw;
+    }
+    .Y{
+        font-size: 14px;
+        padding-left: 2vw;
+        padding-right: 12vw;
+    }
+    .Z{
+        padding-left: 2vw;
+    }
+    .Z1{
+        font-size: 15px;
+    }
+    .Z2{
+        font-size: 12px;
+        padding-right: 14vw;
+    }
+    .btnZ1{
+        padding-left: 2vw;
+        padding-top: 5vh;
+    }
+    .btnZ{
+        font-size: 12px;
+        width: 14vw;
+    }
+
+    .Services1{
+        height: 150vh;
+    }
+    .OurServices{
+        font-size: 30px;
+    }
+    .bxA1{
+        font-size: 18px;
+    }
+    .bxA2{
+        font-size: 14px;
+        padding-right: 5vw;
+    }
+    .bxA3{
+        font-size: 15px;
+
+    }
+    
+    .btnbx{
+        width: 15vw;
+        height: 3vh;
+        font-size: 12px;
+    }
+
+.bxB1{
+    font-size: 18px;
+}
+.bxB2{
+    font-size: 14px;
+    padding-right: 10vw;
+}
+.bxB3{
+    font-size: 15px;
+}
+
+.btn4{
+    font-size: 16px;
+}
+
+.Destinations1{
+    height: 75vh;
+}
+.bg1{
+    height: 75vh;
+}
+.bg1 img{
+    height: 75vh;
+}
+
+.DestboxA{
+    font-size: 30px;
+    bottom: 70vh;
+}
+.DestboxB{
+    font-size: 14px;
+    bottom: 65vh;
+}
+.DestboxC{
+    font-size: 15px;
+    bottom: 61vh;
+}
+
+.WhyChooseUs{
+    height: 50vh;
+}
+.Why1{
+    font-size: 30px;
+}
+.Why2{
+    font-size: 18px;
+}
+
+.Why3a1{
+    font-size: 13px;
+    height: 2vh;
+}
+.Why3a2{
+    font-size: 13px;
+}
+.Why3b1{
+    font-size: 13px;
+    height: 2vh;
+}
+.Why3b2{
+    font-size: 13px;
+}
+.Why3c1{
+    font-size: 13px;
+    height: 2vh;
+}
+.Why3c2{
+    font-size: 13px;
+}
+.Why3d1{
+    font-size: 13px;
+    height: 2vh;
+}
+.Why3d2{
+    font-size: 13px;
+}
+
+.Clients1{
+    height: 60vh;
+}
+
+.Cl1{
+    font-size: 30px;
+}
+.Cl2{
+    font-size: 14px;
+}
+
+.Cl3a{
+    width: 30%;
+    height: 16vh;
+}
+.Cl3b{
+    width: 30%;
+    height: 16vh;
+}
+.Cl3c{
+    width: 30%;
+    height: 16vh;
+}
+
+.Cl3a1{
+    font-size: 14px;
+}
+.Cl3a2{
+    font-size: 12px;
+    padding: 0 1vw;
+}
+.Cl3b1{
+    font-size: 14px;
+}
+.Cl3b2{
+    font-size: 12px;
+    padding: 0 1vw;
+}
+.Cl3c1{
+    font-size: 14px;
+}
+.Cl3c2{
+    font-size: 12px;
+    padding: 0 1vw;
+}
+
+.Cl4a{
+    width: 30%;
+}
+.Cl4b{
+    width: 30%;
+}
+.Cl4c{
+    width: 30%;
+}
+
+.Cl4a1{
+    padding-left: 12vw;
+}
+.Cl4b1{
+    padding-left: 12vw;
+}
+.Cl4c1{
+    padding-left: 12vw;
+}
+
+.Cl4a2{
+    font-size: 15px;
+}
+.Cl4a3{
+    font-size: 13px;
+}
+.Cl4b2{
+    font-size: 15px;
+}
+.Cl4b3{
+    font-size: 13px;
+}
+.Cl4c2{
+    font-size: 15px;
+}
+.Cl4c3{
+    font-size: 13px;
+}
+
+.Figures1{
+    height: 40vh;
+}
+
+.FigA1{
+    font-size: 30px;
+}
+.FigA2{
+    font-size: 14px;
+}
+
+.FigB1{
+    height: 12vh;
+    width: 16vw;
+}
+.FigB1a{
+    font-size: 24px;
+}
+.FigB1b{
+    font-size: 14px;
+}
+.FigB2{
+    height: 12vh;
+    width: 16vw;
+}
+.FigB2a{
+    font-size: 24px;
+}
+.FigB2b{
+    font-size: 14px;
+}
+.FigB3{
+    height: 12vh;
+    width: 16vw;
+}
+.FigB3a{
+    font-size: 24px;
+}
+.FigB3b{
+    font-size: 14px;
+}
+.FigB4{
+    height: 12vh;
+    width: 16vw;
+}
+.FigB4a{
+    font-size: 24px;
+}
+.FigB4b{
+    font-size: 14px;
+}
+
+.ContactUs{
+    height: 90vh;
+}
+
+.Contact1{
+    font-size: 27px;
+}
+.Contact2{
+    font-size: 15px;
+}
+.Contact3{
+    font-size: 16px;
+}
+.Contact4{
+    font-size: 15px;
+}
+
+.Name{
+    width: 35vw;
+    height: 3vw;
+    font-size: 14px;
+}
+.Email{
+    width: 35vw;
+    height: 3vw;
+    font-size: 14px;
+}
+.Phone{
+    width: 35vw;
+    height: 3vw;
+    font-size: 14px;
+}
+.Travel{
+    width: 35vw;
+    height: 3vw;
+    font-size: 14px;
+}
+.Message{
+    font-size: 15px;
+}
+
+.Button5{
+    width: 20vw;
+    height: 4vh;
+    font-size: 12px;
+}
+
+.Footer{
+    height: 17vh;
+}
+.footimg{
+    padding-top: 3vh;
+    padding-left: 7vw;
+}
+.footimg img{
+    width: 12vw;
+    height: 4vh;
+}
+.footlist1{
+    bottom: 5vh;
+    left: 25vw;
+}
+.footlist1 ul li{
+    padding: 12px;
+}
+.footlist1 ul li a{
+    font-size: 14px;
+}
+.foot1{
+    font-size: 15px;
+}
+
+}
+
+

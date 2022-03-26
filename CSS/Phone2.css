@@ -1,0 +1,622 @@
+@media screen and (max-width: 700px) 
+{
+    .nav1{
+        height: 8vh;
+        text-align: left;
+    }
+    
+    .ph{
+        font-size: 12px;
+    }
+    .gm{
+        font-size: 12px;
+    }
+    .phone img{
+        width: 23px;
+        margin-left: 7px;
+    }
+    .mailbox img{
+        width: 23px;
+        margin-left: 7px;
+    }
+    .nav2{
+        display: none;
+    }
+    .nav2 img{
+        padding-top: 2vh;
+        height: 4vh;
+        padding-left: 3vw;
+    }
+    .list1 ul{
+        padding-top: 4vh;
+    }
+    .list1 ul li{
+        padding: 10px;
+    }
+    .list1 ul li a{
+        font-size: 13px;
+    }
+    .btn1{
+        height: 4vh;
+        width: 13vw;
+        margin-top: 4vh;
+        margin-left: 6vw;
+    }
+
+    .ImgMain{
+        height: 65vh;
+    }
+    .ImgMain img{
+        height: 65vh;
+    }
+    .text1{
+        bottom: 56vh;
+    }
+    .A{
+        font-size: 35px;
+        letter-spacing: 1px;
+        padding-bottom: 1vh;
+    }
+    .B{
+        font-size: 17px;
+    }
+    .C{
+        font-size: 12px;
+        padding: 0 11vw;
+    }
+    .btn2{
+        width: 27vw;
+        font-size: 13px;
+        margin-top: 1vh;
+    }
+
+
+    .About{
+        height: 65vh;
+    }
+    
+    .A1a{
+        padding-left: 5vw;
+    }
+    .A1b{
+        padding-left: 5vw;
+    }
+    .Img1 img{
+        height: 12vh;
+        width: 20vw;
+        padding-top: 14vh;
+    }
+    .Img2 img{
+        height: 23vh;
+        width: 14vw;
+        padding-top: 3vh;
+    }
+    .Img3 img{
+        height: 15vh;
+        width: 12vw;
+    }
+    .Img4 img{
+        height: 20vh;
+        width: 22vw;
+    }
+    .X{
+        font-size: 20px;
+        padding-left: 1vw;
+        padding-top: 4vh;
+    }
+    .Y{
+        font-size: 11px;
+        padding-left: 1vw;
+        padding-right: 5vw;
+        padding-top: 1vh;
+    }
+    .Z{
+        padding-left: 1vw;
+        padding-top: 2vh;
+    }
+    .Z1{
+        padding-left: 7vw;
+        font-size: 11px;
+    }
+    .Z2{
+        padding-left: 7vw;
+        font-size: 10px;
+        padding-right: 2vw;
+    }
+    
+    .ImgZ img{
+        width: 15px;
+        height: 15px;
+        padding-top: 2vh;
+    }
+    .btnZ1{
+        padding-left: 1vw;
+        padding-top: 5vh;
+    }
+    .btnZ{
+        font-size: 10px;
+        width: 30vw;
+    }
+
+    .Services1{
+        height: 140vh;
+    }
+    .OurServices{
+        font-size: 20px;
+        padding-left: 6vw;
+    }
+    .bxA1{
+        font-size: 14px;
+        padding-left: 6vw;
+    }
+    .bxA2{
+        font-size: 11px;
+        padding-right: 2vw;
+        padding-left: 6vw;
+    }
+    .bxA3{
+        padding-left: 6vw;
+        font-size: 13px;
+        
+    }
+    .ImgbxA{
+        padding-top: 10vh;
+        padding-left: 6vw;
+    }
+    
+    .ImgbxA Img{
+        width: 30vw;
+        height: 30vh;
+    }
+    .ImgbxAA{
+        padding-top: 10vh;
+        padding-left: 6vw;
+    }
+
+    .ImgbxAA Img{
+        width: 30vw;
+        height: 30vh;
+    }
+
+    .btnbxA{
+        padding-left: 6vw;
+    }
+    .btnbx{
+        width: 25vw;
+        height: 3vh;
+        font-size: 10px;
+    }
+
+
+.bxB1{
+    font-size: 14px;
+    /* padding-left: 5vw; */
+}
+.bxB2{
+    font-size: 11px;
+    padding-right: 3vw;
+    /* padding-left: 5vw; */
+}
+.bxB3{
+    font-size: 13px;
+    /* padding-left: 5vw; */
+}
+.ImgbxB{
+    padding-top: 10vh;
+    /* padding-left: 5vw; */
+}
+
+.ImgbxB Img{
+    width: 30vw;
+    height: 30vh;
+}
+.ImgbxBB{
+    padding-top: 10vh;
+    /* padding-left: 5vw; */
+}
+
+.ImgbxBB Img{
+    width: 30vw;
+    height: 30vh;
+}
+
+.btn4{
+    font-size: 12px;
+    width: 25vw;
+}
+
+.Destinations1{
+    height: 60vh;
+}
+.bg1{
+    height: 60vh;
+}
+.bg1 img{
+    height: 60vh;
+}
+
+.DestboxA{
+    font-size: 20px;
+    bottom: 55vh;
+}
+.DestboxB{
+    font-size: 11px;
+    bottom: 51vh;
+}
+.DestboxC{
+    font-size: 10px;
+    bottom: 46vh;
+}
+.Ul1{
+    padding-left: 5vw;
+}
+.Ul2{
+    padding-left: 3vw;
+}
+.Ul3{
+    padding-left: 3vw;
+}
+.Ul4{
+    padding-right: 2vw;
+    padding-left: 2vw;
+}
+
+.WhyChooseUs{
+    height: 40vh;
+}
+.Why1{
+    font-size: 20px;
+}
+.Why2{
+    font-size: 13px;
+}
+.Why3{
+    padding-top: 3vh;
+}
+
+.Why3a1{
+    font-size: 12px;
+    height: 5vh;
+}
+.Why3a2{
+    font-size: 11px;
+}
+.Why3a3{
+    width: 40px;
+    height: 20px;
+    border-radius: 500px;
+}
+.Why3a3 img{
+    position: relative;
+    width: 15px;
+    height: 15px;
+    bottom: 7px; right: 7px;
+}
+
+.Why3b1{
+    font-size: 12px;
+    height: 5vh;
+}
+.Why3b2{
+    font-size: 11px;
+}
+.Why3b3{
+    width: 40px;
+    height: 20px;
+    border-radius: 500px;
+}
+.Why3b3 img{
+    position: relative;
+    width: 15px;
+    height: 15px;
+    bottom: 7px; right: 7px;
+}
+
+.Why3c1{
+    font-size: 12px;
+    height: 5vh;
+}
+.Why3c2{
+    font-size: 11px;
+}
+.Why3c3{
+    width: 40px;
+    height: 20px;
+    border-radius: 500px;
+}
+.Why3c3 img{
+    position: relative;
+    width: 15px;
+    height: 15px;
+    bottom: 7px; right: 7px;
+}
+
+.Why3d1{
+    font-size: 11px;
+    height: 5vh;
+}
+.Why3d2{
+    font-size: 11px;
+}
+.Why3d3{
+    width: 40px;
+    height: 20px;
+    border-radius: 500px;
+}
+.Why3d3 img{
+    position: relative;
+    width: 15px;
+    height: 15px;
+    bottom: 7px; right: 7px;
+}
+
+.Clients1{
+    height: 55vh;
+}
+
+.Cl1{
+    font-size: 20px;
+}
+.Cl2{
+    font-size: 12px;
+}
+
+.Cl3a{
+    width: 30%;
+    height: 20vh;
+}
+.Cl3b{
+    width: 30%;
+    height: 20vh;
+}
+.Cl3c{
+    width: 30%;
+    height: 20vh;
+}
+
+.Cl3a1{
+    padding-top: 2vh;
+    font-size: 12px;
+}
+.Cl3a2{
+    font-size: 10px;
+    padding: 1vh 1vw;
+}
+.Cl3b1{
+    padding-top: 2vh;
+    font-size: 12px;
+}
+.Cl3b2{
+    font-size: 10px;
+    padding: 1vh 1vw;
+}
+.Cl3c1{
+    padding-top: 2vh;
+    font-size: 12px;
+}
+.Cl3c2{
+    font-size: 10px;
+    padding: 1vh 1vw;
+}
+
+.Cl4a{
+    width: 30%;
+}
+.Cl4b{
+    width: 30%;
+}
+.Cl4c{
+    width: 30%;
+}
+
+.Cl4a1{
+    padding-left: 12vw;
+}
+.Cl4b1{
+    padding-left: 12vw;
+}
+.Cl4c1{
+    padding-left: 12vw;
+}
+
+.Cl4a2{
+    font-size: 12px;
+}
+.Cl4a3{
+    font-size: 10px;
+}
+.Cl4b2{
+    font-size: 12px;
+}
+.Cl4b3{
+    font-size: 10px;
+}
+.Cl4c2{
+    font-size: 12px;
+}
+.Cl4c3{
+    font-size: 10px;
+}
+
+.Cl4a1 img{
+    width: 9vw;
+    height: 9vw;
+    border-radius: 50px;
+}
+.Cl4b1 img{
+    width: 9vw;
+    height: 9vw;
+    border-radius: 50px;
+}
+.Cl4c1 img{
+    width: 9vw;
+    height: 9vw;
+    border-radius: 50px;
+}
+
+
+
+.Figures1{
+    height: 35vh;
+}
+
+.FigA1{
+    font-size: 20px;
+}
+.FigA2{
+    font-size: 12px;
+}
+
+.FigB1{
+    height: 10vh;
+    width: 20vw;
+}
+.FigB1a{
+    font-size: 20px;
+    padding-top: 25px;
+}
+.FigB1b{
+    font-size: 12px;
+}
+.FigB2{
+    height: 10vh;
+    width: 20vw;
+}
+.FigB2a{
+    font-size: 20px;
+    padding-top: 25px;
+}
+.FigB2b{
+    font-size: 12px;
+}
+.FigB3{
+    height: 10vh;
+    width: 20vw;
+}
+.FigB3a{
+    font-size: 20px;
+    padding-top: 25px;
+}
+.FigB3b{
+    font-size: 12px;
+}
+.FigB4{
+    height: 10vh;
+    width: 20vw;
+}
+.FigB4a{
+    font-size: 20px;
+    padding-top: 25px;
+}
+.FigB4b{
+    font-size: 12px;
+}
+
+.ContactUs{
+    height: 95vh;
+}
+
+.Contact1{
+    font-size: 20px;
+}
+.Contact2{
+    font-size: 13px;
+}
+.Contact3{
+    font-size: 14px;
+}
+.Contact4{
+    font-size: 13px;
+}
+
+.Name{
+    width: 40vw;
+    height: 3vh;
+    font-size: 12px;
+    margin-bottom: 1vh;
+}
+.Email{
+    width: 40vw;
+    height: 3vh;
+    font-size: 12px;
+    margin-bottom: 1vh;
+}
+.Phone{
+    width: 40vw;
+    height: 3vh;
+    font-size: 12px;
+    margin-bottom: 1vh;
+}
+.Travel{
+    width: 30vw;
+    height: 3vh;
+    font-size: 12px;
+    margin-bottom: 1vh;
+}
+.Message{
+    font-size: 13px;
+    margin-bottom: 1vh;
+    width: 70vw;
+    height: 18vh;
+}
+
+.L1{
+    font-size: 15px;
+}
+.L2{
+    font-size: 15px;
+}
+.L3{
+    font-size: 15px;
+}
+.L4{
+    font-size: 15px;
+}
+.L5{
+    font-size: 16px;
+}
+
+
+.Button5{
+    width: 40vw;
+    height: 4vh;
+    font-size: 11px;
+}
+
+.Footer{
+    height: 17vh;
+    display: block;
+}
+.footimg{
+    padding-top: 2vh;
+    text-align: center;
+    margin-left: -3vh;
+}
+.footimg img{
+    width: 25vw;
+    height: 4vh;
+}
+.footlist1{
+    position: static;
+    width: 100%;
+    height: 3vh;
+    text-align: center; justify-content: center;
+}
+.footlist1 ul{
+    text-align: center; justify-content: center;
+    margin-top: 1vh;
+}
+.footlist1 ul li{
+    padding: 5px;
+}
+.footlist1 ul li a{
+    font-size: 10px;
+}
+.foot1{
+    padding-top: 1vh;
+    font-size: 11px;
+}
+
+}
+
+
